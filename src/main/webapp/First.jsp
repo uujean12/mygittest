@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>제목1</h1>
+	<h2>제목1</h2>
 </body>
 </html>
